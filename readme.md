@@ -58,5 +58,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## ⭐️ Show Your Support
 
 Give a ⭐️ if you found this helpful!
-
-````
