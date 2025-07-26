@@ -1,0 +1,20 @@
+# 👉 Operating System files
+.DS_Store
+Thumbs.db
+
+# 👉 Editor-specific settings
+.vscode/
+.idea/
+
+# 👉 Logs
+*.log
+
+# 👉 Node-related (in case you use npm or build tools later)
+node_modules/
+dist/
+build/
+
+# 👉 Environment variables (for future-proofing)
+.env
+.env.local
+.env.*.local
